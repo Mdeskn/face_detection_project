@@ -19,7 +19,7 @@ This project is part of the Python specialization completed by Maede Eskandari B
 1. Clone the repository:
 
    ```
-   git clone https://github.com/maedeeskandari/face_detection_project.git
+   git clone https://github.com/Mdeskn/face_detection_project.git
    ```
 
 2. Navigate to the project directory:
